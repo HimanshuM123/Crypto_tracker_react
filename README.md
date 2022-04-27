@@ -77,5 +77,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 6. npm install react-html-parser --force
 7. npm install buffer
 8. npm i --save react-chartjs-2 chart.js
-
-   time 1.16
