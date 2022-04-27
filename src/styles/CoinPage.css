@@ -1,0 +1,35 @@
+.coinPageContainer{
+   display: flex;
+}
+
+.sidebar{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 25;
+    border-right: 2px solid gray;
+    padding-right: 10px;
+}
+
+.heading{
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: "Mon-tserrat";
+}
+
+.description{
+    width: 100%;
+    font-family: "Mon-tserrat";
+    padding: 25;
+    padding-bottom: 15;
+    padding-top: 0;
+    text-align: justify;
+}
+
+.marketData{
+    align-self: start;
+    padding: 25px;
+    padding-top: 10px;
+    width: 100%;
+}

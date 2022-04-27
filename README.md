@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+1. npm install @material-ui/core
+2. npm install @material-ui/lab
+3. npm install react-router-dom
+4. npm install axios
+5. npm i react-alice-carousel
+6. npm install react-html-parser --force
+7. npm install buffer
+8. npm i --save react-chartjs-2 chart.js
+
+   time 1.16

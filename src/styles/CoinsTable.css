@@ -1,0 +1,11 @@
+.coinTableRow{
+background-color: "#16171a";
+cursor: pointer;
+font-family: "Montserrat";
+
+}
+
+.coinTableRow:hover::after{
+    background-color: "#131111";
+}
+
